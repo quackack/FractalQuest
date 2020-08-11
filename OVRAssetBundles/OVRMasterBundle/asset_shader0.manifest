@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 396662268
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0c3c95681baec50b40630e75d07c2f28
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 946c7975e10b0f1edbbc05382ba4ce21
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/FractalShader.shader
+Dependencies: []

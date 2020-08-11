@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1063572972
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c5e3dd782ebb3c929e6d4eeeb2e875e7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 525b72fdacf3aef7d65f355ad8f17a96
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Plugins/GitHub/Editor/big-logo@2x.png
+Dependencies: []

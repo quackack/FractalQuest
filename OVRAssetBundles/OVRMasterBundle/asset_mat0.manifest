@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1936228151
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0eddc5436f2ecc7399741ecea0d17b35
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8215722b766c6decafa3f90512650b44
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/dsg.mat
+- Assets/FractalMaterial.mat
+Dependencies:
+- C:/Users/Joshua/Documents/UnityGames/FractalQuest/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/Joshua/Documents/UnityGames/FractalQuest/OVRAssetBundles/OVRMasterBundle/asset_shader0
